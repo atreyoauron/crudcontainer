@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+
+div.sumario{
+  border: 30px;
+ 
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+}
+
+h1,th,td{
+	
+	text-align: center;
+	
+}
